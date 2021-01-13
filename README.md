@@ -1,5 +1,5 @@
 # INTENTION
-Constructs a basic formatter module with different versions, which is aimed to be used by ![logger](https://github.com/celikelozdinc/logger)
+Constructs a basic formatter module with different versions, which is aimed to be used by [logger](https://github.com/celikelozdinc/logger)
 
 # References :
 + https://blog.golang.org/publishing-go-modules
