@@ -10,6 +10,7 @@ const (
 
 // Format prints the input string in a proper format
 func Format(input string) string {
-	formatted := []string{withRed, input, reset}
+	//formatted := []string{withRed, input, reset}
+	formatted := []string{withGreen, input, reset}
 	return strings.Join(formatted, "")
 }
